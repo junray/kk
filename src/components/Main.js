@@ -37,7 +37,7 @@ class Main extends React.Component {
           <Video
             videoSrcURL="https://www.youtube.com/embed/tapkzNyruls"
             videoTitle={'Cinghiali'}
-            videoSubTitle="Scritto e dirretto da Davide Maldi"
+            videoSubTitle="Scritto e diretto da Davide Maldi"
             ratio="16-9"
           />
 
@@ -46,7 +46,7 @@ class Main extends React.Component {
           <Video
             videoSrcURL="https://www.youtube.com/embed/mbf-GHKC2e0"
             videoTitle="Bach"
-            videoSubTitle="Scritto e dirretto da Flavio Scutti"
+            videoSubTitle="Scritto e diretto da Flavio Scutti"
             ratio="16-9"
           />
 
