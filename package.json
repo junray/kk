@@ -2,7 +2,7 @@
   "name": "gatsby-starter-dimension-v2",
   "description": "Gatsby Starter - Dimension V2",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Nah Gah",
   "dependencies": {
     "gatsby": "^2.2.9",
     "gatsby-plugin-manifest": "^2.0.24",
@@ -26,7 +26,12 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "devDependencies": {
-    "prettier": "^1.14.2"
+    "deploy": "^1.0.3",
+    "gh-pages": "^2.1.1",
+    "npm": "^6.11.3",
+    "prettier": "^1.14.2",
+    "run": "^1.4.0",
+    "then": "0.0.1"
   },
   "repository": {
     "type": "git",
