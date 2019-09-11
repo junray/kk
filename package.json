@@ -12,7 +12,8 @@
     "node-sass": "^4.11.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "gh-pages": "^2.1.1"
   },
   "keywords": [
     "gatsby"
@@ -27,7 +28,6 @@
   },
   "devDependencies": {
     "deploy": "^1.0.3",
-    "gh-pages": "^2.1.1",
     "npm": "^6.11.3",
     "prettier": "^1.14.2",
     "run": "^1.4.0",
