@@ -55,7 +55,7 @@ const Header = props => (
             Social
           </a>
         </li>
-        <li>
+        {/*  <li>
           <a
             href="javascript:;"
             onClick={() => {
@@ -64,7 +64,7 @@ const Header = props => (
           >
             Contact
           </a>
-        </li>
+        </li> */}
       </ul>
     </nav>
   </header>

@@ -4,6 +4,9 @@ import PropTypes from 'prop-types'
 const Footer = props => (
   <footer id="footer" style={props.timeout ? { display: 'none' } : {}}>
     <p className="copyright">&copy; klippa kloppa - Design </p>
+    <p className="copyright">
+      <a href="mailto:klippakloppa@gmail.com">mail</a>
+    </p>
   </footer>
 )
 

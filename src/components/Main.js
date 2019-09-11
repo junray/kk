@@ -147,7 +147,7 @@ class Main extends React.Component {
           {close}
         </article>
 
-        <article
+        {/*  <article
           id="contact"
           className={`${this.props.article === 'contact' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
@@ -179,7 +179,7 @@ class Main extends React.Component {
           </form>
 
           {close}
-        </article>
+        </article> */}
       </div>
     )
   }
