@@ -1,10 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Dimension V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
+    title: 'Gatsby Starter - Dimension V2',
+    author: 'Hunter Chang',
+    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-10007829-1',
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false,
+      },
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
@@ -19,6 +27,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
+    'gatsby-plugin-offline',
   ],
 }
