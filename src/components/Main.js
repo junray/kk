@@ -152,7 +152,7 @@ class Main extends React.Component {
             >
               facebook
             </a>
-            &nbsp;e su&nbsp;
+            &nbsp;
             <a
               href="https://www.instagram.com/klippa_kloppa/"
               target="_blank"
@@ -160,7 +160,7 @@ class Main extends React.Component {
             >
               instagram
             </a>
-            &nbsp;e su&nbsp;
+            &nbsp;
             <a
               href="https://www.youtube.com/user/klippakloppa"
               target="_blank"
