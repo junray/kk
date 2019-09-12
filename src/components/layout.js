@@ -35,7 +35,10 @@ const Layout = ({ children, location }) => {
           <Helmet
             title={data.site.siteMetadata.title}
             meta={[
-              { name: 'description', content: 'klippa kloppa website' },
+              {
+                name: 'description',
+                content: 'klippa kloppa, collettivo casertano di musica',
+              },
               { name: 'keywords', content: 'music, art' },
             ]}
             link={[
