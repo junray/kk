@@ -49,6 +49,14 @@ class Main extends React.Component {
             videoSubTitle="Scritto e diretto da Flavio Scutti"
             ratio="16-9"
           />
+          <br />
+          <br />
+          <Video
+            videoSrcURL="https://www.youtube.com/embed/IZoGkH6g6UE"
+            videoTitle="Blast"
+            videoSubTitle="Scritto e diretto da Mariano Calazzo aka Draghen"
+            ratio="16-9"
+          />
 
           {close}
         </article>
