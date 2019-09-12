@@ -133,6 +133,15 @@ class Main extends React.Component {
             >
               spotify
             </a>
+            &nbsp;e su&nbsp;
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://klippakloppa.bandcamp.com/
+"
+            >
+              bandcamp
+            </a>
           </p>
           <p className="m-bottom4x">
             Seguici su&nbsp;
@@ -150,6 +159,14 @@ class Main extends React.Component {
               rel="noopener noreferrer"
             >
               instagram
+            </a>
+            &nbsp;e su&nbsp;
+            <a
+              href="https://www.youtube.com/user/klippakloppa"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              youtube
             </a>
           </p>
           {close}
