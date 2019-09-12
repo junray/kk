@@ -83,6 +83,16 @@ class Main extends React.Component {
                 Sentire ascoltare
               </a>
             </li>
+
+            <li>
+              <a
+                href="http://www.kathodik.it/modules.php?name=Reviews&rop=showcontent&id=7357"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Kathodik
+              </a>
+            </li>
           </ul>
           <h2>Paper magazines</h2>
           <ul>
