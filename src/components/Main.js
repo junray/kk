@@ -5,6 +5,7 @@ import social from '../images/social.jpg'
 import megaphone from '../images/megaphone.jpg'
 import blowup from '../images/blowup.pdf'
 import buscadero from '../images/buscadero.pdf'
+import baroni from '../images/baroni.pdf'
 
 class Main extends React.Component {
   render() {
@@ -93,6 +94,15 @@ class Main extends React.Component {
                 Kathodik
               </a>
             </li>
+            <li>
+              <a
+                href="https://acquanonpotabile.wordpress.com/2019/09/17/intervista-ai-klippa-kloppa-suoniamo-allincirca-dal-1999-erano-anni-in-cui-vivevamo-insieme-a-napoli-per-frequentare-luniversita-con-spirito-anarchico-condividevamo-passio/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Intervista su acquanonpotabile
+              </a>
+            </li>
           </ul>
           <h2>Paper magazines</h2>
           <ul>
@@ -115,6 +125,18 @@ class Main extends React.Component {
               </a>
               :{' '}
               <a rel="noopener noreferrer" target="_blank" href={buscadero}>
+                scarica il pdf
+              </a>
+            </li>
+            <li>
+              <a
+                rel="noopener noreferrer"
+                href="https://www.facebook.com/vittore.baroni"
+              >
+                Vittore Baroni
+              </a>
+              :{' '}
+              <a rel="noopener noreferrer" target="_blank" href={baroni}>
                 scarica il pdf
               </a>
             </li>
