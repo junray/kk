@@ -11,8 +11,8 @@ const Header = props => (
         <h1>Liberty</h1>
         <p>
           Il nuovo disco dei Klippa Kloppa
-          <br /> in uscita il 20 settembre 2019 <br />
-          preordina l'album sul{' '}
+          <br /> dal 20 settembre 2019 <br />
+          acquista l'album sul{' '}
           <a
             href="https://snowdonia.bandcamp.com/album/liberty"
             target="_blank"
