@@ -103,6 +103,15 @@ class Main extends React.Component {
                 Intervista su acquanonpotabile
               </a>
             </li>
+            <li>
+              <a
+                href="http://www.magazzininesistenti.it/klippa-kloppa-liberty-2019-di-ignazio-gulotta/?fbclid=IwAR1X1ewTywMlb_wSlZJLvo0JtcA2gQhXGZgARgwgVUFd-Qm_NAZRhrpaRKI"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Magazzini inesistenti
+              </a>
+            </li>
           </ul>
           <h2>Paper magazines</h2>
           <ul>
