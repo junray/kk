@@ -6,6 +6,7 @@ import megaphone from '../images/megaphone.jpg'
 import blowup from '../images/blowup.pdf'
 import buscadero from '../images/buscadero.pdf'
 import baroni from '../images/baroni.pdf'
+import rumore from '../images/rumore.pdf'
 
 class Main extends React.Component {
   render() {
@@ -81,7 +82,7 @@ class Main extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Sentire ascoltare
+                Massimo Padalino su Sentire ascoltare
               </a>
             </li>
 
@@ -91,7 +92,7 @@ class Main extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Kathodik
+                Marco Fiori su Kathodik
               </a>
             </li>
             <li>
@@ -109,7 +110,25 @@ class Main extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Magazzini inesistenti
+                Ignazio Gulotta su Magazzini inesistenti
+              </a>
+            </li>
+            <li>
+              <a
+                href="http://www.distorsioni.net/canali/dischi/dischi-it/liberty"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Romina Baldoni su Distorsioni.net
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.rockit.it/recensione/45060/kloppaklippa-liberty"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Libera Capozucca su rockit.it
               </a>
             </li>
           </ul>
@@ -121,7 +140,7 @@ class Main extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Blow up
+                Federico Savini su Blow up
               </a>
               :{' '}
               <a rel="noopener noreferrer" target="_blank" href={blowup}>
@@ -130,7 +149,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a rel="noopener noreferrer" href="http://www.buscadero.com/m">
-                Buscadero
+                Lino Brunetti su Buscadero
               </a>
               :{' '}
               <a rel="noopener noreferrer" target="_blank" href={buscadero}>
@@ -146,6 +165,15 @@ class Main extends React.Component {
               </a>
               :{' '}
               <a rel="noopener noreferrer" target="_blank" href={baroni}>
+                scarica il pdf
+              </a>
+            </li>
+            <li>
+              <a rel="noopener noreferrer" href="https://rumoremag.com/">
+                Barbara Santi su Rumore
+              </a>
+              :{' '}
+              <a rel="noopener noreferrer" target="_blank" href={rumore}>
                 scarica il pdf
               </a>
             </li>
