@@ -131,6 +131,15 @@ class Main extends React.Component {
                 Libera Capozucca su rockit.it
               </a>
             </li>
+            <li>
+              <a
+                href="https://www.ondarock.it/recensioni/klippakloppa-liberty.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Paolo Sforza su ondarock.it
+              </a>
+            </li>
           </ul>
           <h2>Paper magazines</h2>
           <ul>
