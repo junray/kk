@@ -7,6 +7,7 @@ import blowup from '../images/blowup.pdf'
 import buscadero from '../images/buscadero.pdf'
 import baroni from '../images/baroni.pdf'
 import rumore from '../images/rumore.pdf'
+import rockerilla from '../images/rockerilla.pdf'
 
 class Main extends React.Component {
   render() {
@@ -183,6 +184,16 @@ class Main extends React.Component {
               </a>
               :{' '}
               <a rel="noopener noreferrer" target="_blank" href={rumore}>
+                scarica il pdf
+              </a>
+            </li>
+
+            <li>
+              <a rel="noopener noreferrer" href="http://www.rockerilla.com/">
+                Simone Bardazzi su Rockerilla
+              </a>
+              :{' '}
+              <a rel="noopener noreferrer" target="_blank" href={rockerilla}>
                 scarica il pdf
               </a>
             </li>
