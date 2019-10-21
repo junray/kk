@@ -141,6 +141,15 @@ class Main extends React.Component {
                 Paolo Sforza su ondarock.it
               </a>
             </li>
+            <li>
+              <a
+                href="https://www.thenewnoise.it/klippa-kloppa-liberty/?fbclid=IwAR2H4_wzeenDD7hHzT7qTS7kAKlq8f9-yI_YWzHGyrABfLwqdhUOVAqQF2s"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Maurizio Inchingoli su thenewnoise.it
+              </a>
+            </li>
           </ul>
           <h2>Paper magazines</h2>
           <ul>
